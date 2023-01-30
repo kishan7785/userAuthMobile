@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">userAuthMobile</string>
+    <string name="facebook_app_id">692829515585958</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">2103f99257d19c33048ce6db715df79f</string>
+</resources>
